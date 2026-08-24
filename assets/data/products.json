@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "Kablosuz Kulaklık",
+    "description": "Yüksek kaliteli ses ve aktif gürültü engelleme özelliği.",
+    "price": 1299.99,
+    "imageUrl": "https://cdn.evkur.com.tr/c/Product/thumbs/7_zo1e5e_500.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Akıllı Saat",
+    "description": "Adım sayar, nabız ölçer ve uyku takibi özellikleri.",
+    "price": 2499.50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLv2EA3EXFmZwLamWwne0b5ypFfY0ucPRyxS3Ps-4dghdMXAi-OscD_dA&s=10"
+  },
+  {
+    "id": "3",
+    "title": "Mekanik Klavye",
+    "description": "RGB aydınlatmalı, sessiz switch mekanik oyuncu klavyesi.",
+    "price": 899.00,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuW81QOjaeOtLGXbMecbHQwKRGSW6q9mPC9rvww8DKA&s"
+  }
+  
+]
